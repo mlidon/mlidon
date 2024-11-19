@@ -3,7 +3,7 @@
 
 - 🔭 I have worked in [Actium Connect](https://connect.actiumdigital.es/)
 
-- 🌱 I’m currently learning **Python, Spring, WebGL**
+- 🌱 I’m currently learning **Python, .NetCore, WebGL**
 
 - 📝 I usually write technical books for [https://www.marcombo.com/libro/libros-tecnicos-de-arte-y-cientificos/mecanica-libros-tecnicos-y-cientificos/otros-cad-cam-mecanica/unity-3d/](https://www.marcombo.com/libro/libros-tecnicos-de-arte-y-cientificos/mecanica-libros-tecnicos-y-cientificos/otros-cad-cam-mecanica/unity-3d/)
 
