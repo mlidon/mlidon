@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marc Lidon</h1>
 <h3 align="center">A passionate frontend developer from Barcelona province</h3>
 
-- 🔭 I have worked in <a href="[https://tuportafolio.com](https://www.kaleidoscop.net)" target="_blank">🔗 Kaleidoscop</a>
+- 🔭 I have worked in <a href="https://www.kaleidoscop.net" target="_blank">🔗 Kaleidosco</a>
 
 - 🌱 I’m currently learning **Python, .NetCore, WebGL**
 
