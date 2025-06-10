@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marc Lidon</h1>
 <h3 align="center">A passionate frontend developer from Barcelona province</h3>
 
-- 🔭 I have worked in [Actium Connect](https://connect.actiumdigital.es/)
+- 🔭 I have worked in [Kaleidoscop](https://www.kaleidoscop.net/)
 
 - 🌱 I’m currently learning **Python, .NetCore, WebGL**
 
