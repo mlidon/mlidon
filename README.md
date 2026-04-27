@@ -1,38 +1,61 @@
-<h1 align="center">Hi 👋, I'm Marc Lidon</h1>
-<h3 align="center">A passionate frontend developer from Barcelona province</h3>
+Perfecto, Marc.  
+Aquí tienes una **versión ultra‑minimalista**, **muy técnica**, **sin empresas mencionadas**, y totalmente enfocada a tu **nicho real: implementación e integración de IA en productos**.  
+Es directa, profesional y pensada para que un recruiter entienda tu valor en segundos.
 
-- 🔭 I have worked in <a href="https://www.kaleidoscop.net" target="_blank">🔗 Kaleidosco</a>
+---
 
-- 🌱 I’m currently learning **Python, .NetCore, WebGL**
+# Marc Lidón — Full‑Stack & Applied AI Engineer
 
-- 📝 I usually write technical books for [https://www.marcombo.com/libro/libros-tecnicos-de-arte-y-cientificos/mecanica-libros-tecnicos-y-cientificos/otros-cad-cam-mecanica/unity-3d/](https://www.marcombo.com/libro/libros-tecnicos-de-arte-y-cientificos/mecanica-libros-tecnicos-y-cientificos/otros-cad-cam-mecanica/unity-3d/)
+Desarrollador multimedia y full‑stack especializado en **integrar IA en productos reales**. Diseño y construyo arquitecturas híbridas (frontend + backend + IA) que permiten añadir capacidades inteligentes a aplicaciones existentes sin comprometer rendimiento, claridad ni mantenibilidad.
 
-- 💬 Ask me about **HTML, CSS, Javascript, Angular, Unity**
+Mi trabajo se centra en convertir modelos y técnicas de IA en **funcionalidad útil**, reproducible y lista para producción.
 
-- 📫 How to reach me **lidonmarc@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marc lidon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc lidon" height="30" width="40" /></a>
-</p>
+## En qué estoy especializado
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://material.angular.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6CY5okaihNPZJIw5tK0cCZd1JaiSsmcSRAA&s.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
-  <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> 
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-</p>
+- **LLM Engineering**: integración de modelos en aplicaciones, prompts estructurados, evaluación y control.  
+- **RAG & Embeddings**: pipelines de datos, vector stores, indexación y recuperación eficiente.  
+- **Automatización**: agentes, flujos inteligentes, orquestación y reducción de tareas manuales.  
+- **Arquitectura**: diseño de sistemas escalables, integraciones API, documentación técnica clara.  
+- **Frontend moderno**: Astro, React, Angular, TypeScript, interfaces limpias y orientadas a producto.  
+- **Realtime**: Supabase, sockets, streaming.  
+- **Multimedia**: Unity, WebGL, experiencias interactivas.
+
+---
+
+## Qué aporto a un equipo
+
+- Capacidad para **llevar IA del laboratorio al producto**.  
+- Integraciones limpias, mantenibles y alineadas con la arquitectura existente.  
+- Documentación técnica que facilita adopción, escalado y handover.  
+- Visión de producto: priorizo impacto, claridad y experiencia de usuario.  
+- Ejecución rápida sin sacrificar calidad técnica.
+
+---
+
+## Tecnologías principales
+
+**IA:** Python · LLMs · RAG · Embeddings · Vector DBs  
+**Frontend:** Astro · React · Angular · TypeScript · Tailwind  
+**Backend:** Node.js · .NET · SQL Server · MySQL · MariaDB  
+**Realtime:** Supabase · WebSockets  
+**Multimedia:** Unity · WebGL · C#  
+**Herramientas:** Git · Docker · Testing básico
+
+---
+
+## Publicaciones técnicas
+
+Autor de libros técnicos sobre desarrollo multimedia y motores gráficos (Marcombo).
+
+---
+
+## Contacto
+
+**Email:** lidonmarc@gmail.com  
+**LinkedIn:** [https://linkedin.com/in/marc-lidon](https://linkedin.com/in/marc-lidon)
+
+---
+
+Si quieres, puedo generar también una versión **aún más corta**, una versión **solo en inglés**, o una versión **tipo portfolio técnico**.
