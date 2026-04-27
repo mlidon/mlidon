@@ -1,10 +1,4 @@
-Perfecto, Marc.  
-Aquí tienes una **versión ultra‑minimalista**, **muy técnica**, **sin empresas mencionadas**, y totalmente enfocada a tu **nicho real: implementación e integración de IA en productos**.  
-Es directa, profesional y pensada para que un recruiter entienda tu valor en segundos.
-
----
-
-# Marc Lidón — Full‑Stack & Applied AI Engineer
+# Full‑Stack & Applied AI Engineer
 
 Desarrollador multimedia y full‑stack especializado en **integrar IA en productos reales**. Diseño y construyo arquitecturas híbridas (frontend + backend + IA) que permiten añadir capacidades inteligentes a aplicaciones existentes sin comprometer rendimiento, claridad ni mantenibilidad.
 
@@ -56,6 +50,4 @@ Autor de libros técnicos sobre desarrollo multimedia y motores gráficos (Marco
 **Email:** lidonmarc@gmail.com  
 **LinkedIn:** [https://linkedin.com/in/marc-lidon](https://linkedin.com/in/marc-lidon)
 
----
 
-Si quieres, puedo generar también una versión **aún más corta**, una versión **solo en inglés**, o una versión **tipo portfolio técnico**.
