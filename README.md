@@ -1,53 +1,63 @@
-# Full‑Stack & Applied AI Engineer
+# AI Software & Interactive Applications Developer
 
-Desarrollador multimedia y full‑stack especializado en **integrar IA en productos reales**. Diseño y construyo arquitecturas híbridas (frontend + backend + IA) que permiten añadir capacidades inteligentes a aplicaciones existentes sin comprometer rendimiento, claridad ni mantenibilidad.
+Software developer specialized in AI-powered applications, interactive systems, and real-time experiences. I design and build hybrid architectures (frontend + backend + AI) that integrate intelligent capabilities into real products without compromising performance, maintainability, or user experience.
 
-Mi trabajo se centra en convertir modelos y técnicas de IA en **funcionalidad útil**, reproducible y lista para producción.
-
----
-
-## En qué estoy especializado
-
-- **LLM Engineering**: integración de modelos en aplicaciones, prompts estructurados, evaluación y control.  
-- **RAG & Embeddings**: pipelines de datos, vector stores, indexación y recuperación eficiente.  
-- **Automatización**: agentes, flujos inteligentes, orquestación y reducción de tareas manuales.  
-- **Arquitectura**: diseño de sistemas escalables, integraciones API, documentación técnica clara.  
-- **Frontend moderno**: Astro, React, Angular, TypeScript, interfaces limpias y orientadas a producto.  
-- **Realtime**: Supabase, sockets, streaming.  
-- **Multimedia**: Unity, WebGL, experiencias interactivas.
+My work focuses on transforming AI technologies into practical, accessible, and production-ready applications.
 
 ---
 
-## Qué aporto a un equipo
+## Specializations
 
-- Capacidad para **llevar IA del laboratorio al producto**.  
-- Integraciones limpias, mantenibles y alineadas con la arquitectura existente.  
-- Documentación técnica que facilita adopción, escalado y handover.  
-- Visión de producto: priorizo impacto, claridad y experiencia de usuario.  
-- Ejecución rápida sin sacrificar calidad técnica.
-
----
-
-## Tecnologías principales
-
-**IA:** Python · LLMs · RAG · Embeddings · Vector DBs  
-**Frontend:** Astro · React · Angular · TypeScript · Tailwind  
-**Backend:** Node.js · .NET · SQL Server · MySQL · MariaDB  
-**Realtime:** Supabase · WebSockets  
-**Multimedia:** Unity · WebGL · C#  
-**Herramientas:** Git · Docker · Testing básico
+* **AI-Powered Applications**: integration of intelligent capabilities and conversational AI into real-world software products.
+* **Interactive Systems**: development of real-time and user-centered interactive experiences.
+* **Accessibility Technology**: applications designed to improve accessibility and assist visually impaired users.
+* **Voice & Contextual Narration Systems**: speech interaction, contextual voice feedback, and adaptive narration.
+* **Computer Vision**: real-time object detection and environment-aware systems.
+* **Modern Frontend Development**: SwiftUI, Angular, React, Astro, and product-oriented user interfaces.
+* **Backend & APIs**: scalable architectures, REST APIs, realtime integrations, and backend services.
+* **Realtime Systems**: Supabase, streaming, sockets, and live data integrations.
+* **Interactive & Multimedia Development**: Unity, WebGL, and immersive interactive experiences.
 
 ---
 
-## Publicaciones técnicas
+## What I Bring to a Team
 
-Autor de libros técnicos sobre desarrollo multimedia y motores gráficos (Marcombo).
+* Ability to transform AI concepts into usable and maintainable software products.
+* Clean integrations aligned with existing architectures and product goals.
+* Strong product-oriented mindset focused on usability, accessibility, and user experience.
+* Fast execution while maintaining technical quality and scalability.
+* Experience combining AI, realtime systems, voice technologies, and interactive applications.
 
 ---
+
+## Main Technologies
+
+### AI & Intelligent Systems
+OpenAI APIs · Conversational AI · Contextual Processing · Voice Systems · Computer Vision
+
+### Applications & Frontend
+SwiftUI · Angular · React · Astro · TypeScript
+
+### Backend & APIs
+ASP.NET Core · Node.js · REST APIs · SQL Server · MySQL · Supabase
+
+### Realtime & Interactive Systems
+Unity · WebGL · Realtime APIs · WebSockets · Streaming Systems
+
+### Languages
+C# · Swift · Python · TypeScript · SQL
+
+---
+
+## Technical Publications
+
+Author of technical books focused on multimedia development and game engines (Marcombo).
+
 
 ## Contacto
 
 **Email:** lidonmarc@gmail.com  
 **LinkedIn:** [https://linkedin.com/in/marc-lidon](https://linkedin.com/in/marc-lidon)
+
 
 
